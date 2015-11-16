@@ -1,1 +1,3 @@
 Informacion de mi biografia...
+
+Color favorito: Rojo
